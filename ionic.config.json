@@ -1,0 +1,9 @@
+{
+  "name": "baseapp",
+  "type":"custom",
+
+"integrations": {
+ "cordova": {}
+}
+
+}
